@@ -20,7 +20,6 @@
 ## Landing Screen with data from GITHUB API
 <p align="center">
 <img src="/readme/ss1.png" width="200">
-<img width="142" alt="screen1" src="https://user-images.githubusercontent.com/39777674/71302211-774d2100-23ce-11ea-8e7b-efe51e7a1d4d.png">
 </p>
 <br>
 
