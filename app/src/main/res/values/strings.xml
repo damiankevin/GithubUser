@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GithubUserFinder</string>
+    <string name="error_in_retrieving_data">Error in retrieving data</string>
+    <string name="search">Search</string>
+    <string name="edit_text_hint">Search here</string>
+    <string name="github">github</string>
+
+</resources>
